@@ -1,0 +1,2 @@
+C:\Users\tamer\OneDrive\Рабочий стол\Dz CP_3
+Django~=4.1.7
